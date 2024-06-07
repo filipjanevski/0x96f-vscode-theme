@@ -2,6 +2,11 @@
   "name": "0x96f-vscode-theme",
   "displayName": "0x96f-vscode-theme",
   "description": "A simple and pleasant dark theme for VS Code",
+  "publisher": "filipjane",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipjanevski/0x96f-vscode-theme.git"
+  },
   "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
