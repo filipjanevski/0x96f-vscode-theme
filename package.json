@@ -1,20 +1,15 @@
 {
   "name": "0x96f-vscode-theme",
-  "displayName": "0x96f-vscode-theme",
+  "displayName": "0x96f Theme",
   "description": "A simple and pleasant dark theme for VS Code",
   "publisher": "filipjane",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/filipjanevski/0x96f-vscode-theme.git"
-  },
+  "repository": "https://github.com/filipjanevski/0x96f-vscode-theme.git",
   "icon": "icon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.90.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
