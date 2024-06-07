@@ -1,0 +1,22 @@
+{
+  "name": "0x96f-vscode-theme",
+  "displayName": "0x96f-vscode-theme",
+  "description": "A simple and pleasant dark theme for VS Code",
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "0x96f",
+        "uiTheme": "vs-dark",
+        "path": "./themes/0x96f-color-theme.json"
+      }
+    ]
+  }
+}
