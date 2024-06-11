@@ -5,17 +5,19 @@
   "publisher": "filipjane",
   "repository": "https://github.com/filipjanevski/0x96f-vscode-theme.git",
   "icon": "icon.png",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.90.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "0x96f",
         "uiTheme": "vs-dark",
-        "path": "./themes/0x96f-color-theme.json"
+        "path": "./themes/0x96f-theme.json"
       }
     ]
   }
