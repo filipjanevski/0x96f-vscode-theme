@@ -5,7 +5,7 @@
   "publisher": "filipjane",
   "repository": "https://github.com/filipjanevski/0x96f-vscode-theme.git",
   "icon": "icon.png",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.90.0"
   },
